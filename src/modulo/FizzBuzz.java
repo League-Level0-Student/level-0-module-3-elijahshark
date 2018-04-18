@@ -26,11 +26,22 @@ import javax.swing.JOptionPane;
 * 
 **/
 
-public class FizzBuzz {
-public static void main(String[] args) {
-	if (condition) {
-		
-	} else {
+//public class FizzBuzz {
+//public static void main(String[] args) {
+/**
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 	} else {
 
 	}
 if (condition) {
@@ -56,5 +67,21 @@ if (condition) {
 		
 	}
 }
-}
+
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 	if (condition) {
+ */
+
+
 
